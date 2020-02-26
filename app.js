@@ -11,7 +11,7 @@ const ___URL_BASE_STORE_IMG = 'http://192.168.10.54:9393/';
 
 const ___SCOPE = 'OCR_API';
 const ___TOKEN_API = 'eb976d531188435ea006fce8769c53d5';
-let ___URL = 'https://vision.googleapis.com/v1/images:annotate?key=AIzaSyC4xj2chiZKLv_QCSsI5JvY7MHcjJQ9kFw';
+let ___URL = 'https://vision.googleapis.com/v1/images:annotate?key=AIzaSyC4xj2chiZKLv_QCSsI5JvY7MHcjJQ9kFw_123456789';
 
 const ___DB_CONFIG = {
     server: '192.168.11.205',
